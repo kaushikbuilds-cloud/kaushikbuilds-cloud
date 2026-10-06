@@ -48,51 +48,17 @@ Every page I build aims to be fast, accessible, and a little bit fun to use.
 
 ---
 
-## 🛠 Core development
+## 🧰 Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,react,nextjs,vite,tailwind,framer,nodejs,express,supabase,postgres,mysql,firebase,tensorflow,pytorch,git,github,vscode,postman,figma,docker,vercel,netlify,cloudflare,railway&perline=10" alt="Tech stack" />
+</div>
 
-## ⚛️ Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer" />
-</p>
+Working with OpenAI, Gemini, Claude APIs, and React Native + Capacitor for mobile.
 
-## 🗄️ Backend & database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,firebase" />
-</p>
-
-## 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-Working with OpenAI, Gemini, and Claude APIs.
-
-## 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
-</p>
-
-## ☁️ Deployment & cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,railway" />
-</p>
-
-## 📱 Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-React Native and Capacitor.
+</div>
 
 ---
 
