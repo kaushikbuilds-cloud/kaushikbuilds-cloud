@@ -18,6 +18,25 @@
 
 ---
 
+<div align="center">
+
+<img src="assets/hero.svg" width="100%" alt="Animated code window showing my developer profile" />
+
+</div>
+
+## 🖥️ Frontend lab
+
+<div align="center">
+
+[![Hero](https://img.shields.io/badge/Built_with-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Built_with-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Tailwind](https://img.shields.io/badge/Styled_with-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Framer Motion](https://img.shields.io/badge/Animated_with-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
+</div>
+
+Every page I build aims to be fast, accessible, and a little bit fun to use.
+
 ## 🐍 My contribution snake
 
 <div align="center">
