@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Kaushik&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descAlign=50&descSize=20" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=07162e,132a52,c9a96e&height=240&section=header&text=Kaushik&fontSize=80&fontColor=f8f5ee&fontAlign=50&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Lunex%20Tech&descAlignY=60&descAlign=50&descSize=20&descColor=c9a96e" width="100%" alt="Header" />
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+products%2C+breaking+problems%2C+turning+ideas+into+reality+🚀;Founder+%40+Lunex+Tech+%26+HITHOZHA;I+build+web+apps%2C+AI+products%2C+and+ideas+that+solve+real+problems.)
+![Typing](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=800&color=C9A96E&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+products%2C+breaking+problems%2C+turning+ideas+into+reality+🚀;Founder+%40+Lunex+Tech+%26+HITHOZHA;I+build+web+apps%2C+AI+products%2C+and+ideas+that+solve+real+problems.)
 
 <p>
   <a href="https://www.linkedin.com/in/kaushikcodes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -24,11 +24,15 @@
 
 </div>
 
-## 🖥️ Frontend lab
+## ☕ Lunex Tech
 
 <div align="center">
 
-[![Hero](https://img.shields.io/badge/Built_with-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+<img src="assets/lunex-logo.png" width="220" alt="Lunex Tech logo" />
+
+**Lunex Tech** builds web apps and AI products. Founded by Kaushik, with HITHOZHA as a sister project.
+
+[![Lunex](https://img.shields.io/badge/Lunex_Tech-07162E?style=flat-square&logo=codeforces&logoColor=C9A96E)](https://github.com/kaushikbuilds-cloud)
 [![Next.js](https://img.shields.io/badge/Built_with-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![Tailwind](https://img.shields.io/badge/Styled_with-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Framer Motion](https://img.shields.io/badge/Animated_with-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
